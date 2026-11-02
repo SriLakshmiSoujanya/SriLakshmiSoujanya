@@ -8,6 +8,12 @@
   <i>Building ML systems and analytics dashboards that drive data-driven decisions 🚀</i>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SriLakshmiSoujanya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+**🎓 B.Tech IT** &nbsp;•&nbsp; **📊 Data Analytics Trainee @ Order Matic** &nbsp;•&nbsp; **🌟 GFG Campus Ambassador** &nbsp;•&nbsp; **🤖 Amazon ML Summer School**
+
 </div>
 
 ---
@@ -20,7 +26,7 @@
 
 🌟 I'm currently a **GeeksforGeeks Campus Ambassador**, and I was selected for and completed the **Amazon ML Summer School** program as a trainee.
 
-🔭 I'm currently working on **ML pipelines, GenAI (RAG) applications, fraud detection, and Power BI analytics projects**.
+🔭 I'm currently working on **ClickHouse materialized views, Report Builder reports, and Power BI dashboards at Order Matic**, along with **ML pipelines, GenAI (RAG) applications, and fraud detection projects**.
 
 🌱 I'm currently learning **Data Structures & Algorithms, Advanced SQL, Deep Learning, Generative AI, and Cloud Technologies**.
 
@@ -33,9 +39,20 @@
 ## 💼 Experience
 
 ### 📊 Data Analytics Trainee — Order Matic Technologies
-*July 16, 2026 – Oct 16, 2026*
-- Developed interactive **Power BI dashboards** for restaurant transactions, revenue, payment modes, and business KPIs using **SQL, DAX, Power Query, and REST APIs**.
-- Performed data cleaning, transformation, analysis, and reporting, including **API integration, cohort analysis**, and business performance reporting to support data-driven decisions.
+*July 16, 2026 – Oct 16, 2026* • 🟢 **Current role**
+
+**What I'm doing right now:**
+- 🗄️ Working with **ClickHouse** and **DBeaver** to query and manage large-scale analytical data
+- ⚡ Designing and building **materialized views** in ClickHouse to speed up reporting queries
+- 📑 Creating reports in **Report Builder** on top of the prepared data
+- 📈 Building interactive **Power BI dashboards** for restaurant **transactions, revenue, payment modes, and business KPIs**
+
+**Also worked on:**
+- 🧮 **SQL, DAX, and Power Query** transformations to model and prepare data
+- 🔌 **REST API** integration into reporting workflows
+- 🧹 Data cleaning and transformation, **cohort analysis**, and business performance reporting to support data-driven decisions
+
+**Tech:** ClickHouse • DBeaver • Materialized Views • Report Builder • Power BI • SQL • DAX • Power Query • REST APIs
 
 ### 📈 Data Analytics Intern — Apex Planet
 *Feb 1, 2026 – Apr 1, 2026*
@@ -72,6 +89,8 @@
 ### 📊 Data, Cloud & Dev Tools
 
 <p>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -135,16 +154,6 @@ A GenAI-powered resume screening app using document embeddings and semantic sear
 <img src="https://github-readme-stats.vercel.app/api?username=SriLakshmiSoujanya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriLakshmiSoujanya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SriLakshmiSoujanya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
